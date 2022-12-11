@@ -1,6 +1,6 @@
 # Automating the Endoscope Camera of the DVRK using Tobii Eye Tracker 5 
 
-### In this repository, as a part of our Human-Robot Interaction Project, we have attempted to automate/operate the endoscope camera based on - Gaze tracking, keyboard and mouse interfaces.
+##### In this repository, as a part of our Human-Robot Interaction Project, we have attempted to automate/operate the endoscope camera based on - Gaze tracking, keyboard and mouse interfaces.
 
 For this project, the following software dependencies are required:
 ```
