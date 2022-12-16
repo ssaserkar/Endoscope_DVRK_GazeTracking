@@ -3,8 +3,8 @@
 ##### In this repository, as a part of our Human-Robot Interaction Project, we have attempted to automate/operate the endoscope camera based on - Gaze tracking, keyboard and mouse interfaces.
 
  The main contributors of the Project were :
- <br><a href="https://github.com/ssaserkar">Soham Shantanu Aserkar</a> 
  <br> <a href="https://github.com/UthiraS">Uthiralakshmi Sivaraman</a>
+ <br><a href="https://github.com/ssaserkar">Soham Shantanu Aserkar</a>  
  <br><a href="https://github.com/oraisbeck">Olivia Raisbeck </a>
 
 For this project, the following software dependencies are required:
@@ -19,12 +19,31 @@ CUDA 11.0
 For the purpose of the Project, we have used the Tobii Eye Tracker 5 to track the gaze and move the Camera wihtin the Unity Simulation.
 We have setup the Unity Environment based on the real daVinci Research Kit from scratch and integrated the camera output to the main camera. 
 
+The Necessary Packages to Add :
+```
+1) Tobii Eye Tracker Unity SDK 5.0003
+2)  URDF Impoter : https://github.com/Unity-Technologies/URDF-Importer.git?path=/com.unity.robotics.urdf-importer#v0.5.2
+
+
+Steps to Add the Package to Unity:
+```
+1) Open the Unity HUb, find the project titled ""
+2)  Under Window tab, choose Package Manager
+3) Package Manager tab gets opened
+4) In top left corner, Chooce either of the options 
+i) Add package from Disk
+ii) Add Package from git URL
+Choose the options based the location of package to be imported.
+```
+
+
 Here are the steps to run the Unity Simulation:
 ```
 1) Open the Unity Hub, find the project name titled "DVRK-ROS"
 2) Click on the Project Structure.
 3) Find the 'Working_Scene' in the Scenes Folder.
 4) Connect the Tobii Eye Tracker 5
+5) Ensure the current display in active in Game View
 5) Upon pressing play, 
     hold down the key 'A' to move the camera based on Gaze
     hold down the key 'B' to move the camera based on Keyboard
