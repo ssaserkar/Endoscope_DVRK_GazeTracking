@@ -3,9 +3,9 @@
 ##### In this repository, as a part of our Human-Robot Interaction Project, we have attempted to automate/operate the endoscope camera based on - Gaze tracking, keyboard and mouse interfaces.
 
  The main contributors of the Project were :
- <br>Soham Shantanu Aserkar
- <br>Uthiralakshmi Sivaraman
- <br>Olivia Raisbeck
+ <br><a href="https://github.com/ssaserkar">Soham Shantanu Aserkar</a> 
+ <br> <a href="https://github.com/UthiraS">Uthiralakshmi Sivaraman</a>
+ <br><a href="https://github.com/oraisbeck">Olivia Raisbeck </a>
 
 For this project, the following software dependencies are required:
 ```
