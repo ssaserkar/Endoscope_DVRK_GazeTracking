@@ -28,7 +28,7 @@ The Necessary Packages to Add :
 
 Steps to Add the Package to Unity:
 ```
-1) Open the Unity HUb, find the project titled ""
+1) Open the Unity HUb, find the project titled "unity-dvrk-gaze"
 2)  Under Window tab, choose Package Manager
 3) Package Manager tab gets opened
 4) In top left corner, Chooce either of the options 
@@ -40,7 +40,7 @@ Choose the options based the location of package to be imported.
 
 Here are the steps to run the Unity Simulation:
 ```
-1) Open the Unity Hub, find the project name titled "DVRK-ROS"
+1) Open the Unity Hub, find the project name titled "unity-dvrk-gaze"
 2) Click on the Project Structure.
 3) Find the 'Working_Scene' in the Scenes Folder.
 4) Connect the Tobii Eye Tracker 5
@@ -50,6 +50,11 @@ Here are the steps to run the Unity Simulation:
     hold down the key 'B' to move the camera based on Keyboard
     hold down the key 'C' to move the camera based on Mouse
 ```
+ The below is the setup for User Study.
+ 
+
+
+
 
 For running the training of the Semantic Segmentation using the UNet++ architecture:
 1) Install Anaconda and create new virtual environment based on the environment.yml.
