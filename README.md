@@ -3,9 +3,9 @@
 ##### In this repository, as a part of our Human-Robot Interaction Project, we have attempted to automate/operate the endoscope camera based on - Gaze tracking, keyboard and mouse interfaces.
 
  The main contributors of the Project were :
- Soham Shantanu Aserkar
- Uthiralakshmi Sivaraman
- Olivia Raisbeck
+ \Soham Shantanu Aserkar
+ \Uthiralakshmi Sivaraman
+ \Olivia Raisbeck
 
 For this project, the following software dependencies are required:
 ```
@@ -64,6 +64,10 @@ conda create -f environment.yml
                             |__ groundtruth
  ```
  3) Run the trainSegNet.sh file
- 4) The resultant image is saved in the folder 'results'.
+ 4) The resultant image is saved in the folder 'results' in recurrent folders, where you can find the results for each combination of hyperparameters you try.
+ 
+ The below is the result obtained for the batch size of 2 for training set and 1 for validation set.
  
  
+ 
+![epoch_19_img_0](https://user-images.githubusercontent.com/116770046/207999666-a120461b-b423-49d0-b014-998cfa53c79a.png)
