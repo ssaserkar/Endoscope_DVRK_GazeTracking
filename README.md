@@ -93,3 +93,10 @@ conda create -f environment.yml
  
  
 ![epoch_19_img_0](https://user-images.githubusercontent.com/116770046/207999666-a120461b-b423-49d0-b014-998cfa53c79a.png)
+
+The below is the video link for Gaze based Camera Automation : https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/EUL0wtehKXVNu8n_8E_CJDIBRAHIholjbrGPQMzy1pTndw?e=bjtXjd
+
+The below is the link for User Studies : 
+USER STUDY: CALIBRATION ERRORS : https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/ER5rcqUPqZJImXXvBN7sNgIB4YUCiVTtE88hxbHFqprZ7Q?e=2gelWm
+USER STUDY: UNFAMILIAR WITH SYSTEM : https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/EeGYe23U7p5DjZ6iRbZDu50BhNxZgvnJSXl1w2eY5Sl_wQ?e=e3XCvh
+USER STUDY: SUCCESS : https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/EfbHE9M9_CVNj6qIN3eiD2kBhBIx2uFMpdKmqVteR6ydzw?e=ZiPZWg
