@@ -110,3 +110,7 @@ USER STUDY: UNFAMILIAR WITH SYSTEM :
 USER STUDY: SUCCESS : 
 <a href="https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/EfbHE9M9_CVNj6qIN3eiD2kBhBIx2uFMpdKmqVteR6ydzw?e=ZiPZWg">User_Study_Success</a>
 
+
+Presentation Slides:
+<a href="https://wpi0-my.sharepoint.com/:b:/g/personal/usivaraman_wpi_edu/ESmzHp1pn4ZKv7noHQBPpQABVRyosfEyHJs1rCtQHcC0Lw?e=1tTESS">PPT</a>
+
