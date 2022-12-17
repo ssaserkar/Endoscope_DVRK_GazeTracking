@@ -3,8 +3,8 @@
 ##### In this repository, as a part of our Human-Robot Interaction Project, we have attempted to automate/operate the endoscope camera based on - Gaze tracking, keyboard and mouse interfaces.
 
  The main contributors of the Project were :
+ <br><a href="https://github.com/ssaserkar">Soham Shantanu Aserkar</a> 
  <br> <a href="https://github.com/UthiraS">Uthiralakshmi Sivaraman</a>
- <br><a href="https://github.com/ssaserkar">Soham Shantanu Aserkar</a>  
  <br><a href="https://github.com/oraisbeck">Olivia Raisbeck </a>
 
 For this project, the following software dependencies are required:
@@ -40,6 +40,7 @@ Choose the options based the location of package to be imported.
 
 Here are the steps to run the Unity Simulation:
 ```
+The project is rather large for GitHub, so we have uploaded the Unity3D Project on this <a href="https://wpi0-my.sharepoint.com/:u:/g/personal/usivaraman_wpi_edu/Ee6B_RqEKZ1Ap1ttD9kDsogBWvY9ve09cLM2yjlltgOngQ?e=GVpldC">Link</a>
 1) Open the Unity Hub, find the project name titled "unity-dvrk-gaze"
 2) Click on the Project Structure.
 3) Find the 'Working_Scene' in the Scenes Folder.
