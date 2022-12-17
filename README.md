@@ -36,12 +36,10 @@ i) Add package from Disk
 ii) Add Package from git URL
 Choose the options based the location of package to be imported.
 ```
-
+The project is rather large for GitHub, so we have uploaded <a href="https://wpi0-my.sharepoint.com/:u:/g/personal/usivaraman_wpi_edu/Ee6B_RqEKZ1Ap1ttD9kDsogBWvY9ve09cLM2yjlltgOngQ?e=GVpldC">the Unity3D Project on this Link</a>
 
 Here are the steps to run the Unity Simulation:
-The project is rather large for GitHub, so we have uploaded the Unity3D Project on this <a href="https://wpi0-my.sharepoint.com/:u:/g/personal/usivaraman_wpi_edu/Ee6B_RqEKZ1Ap1ttD9kDsogBWvY9ve09cLM2yjlltgOngQ?e=GVpldC">Link</a>
 ```
-
 1) Open the Unity Hub, find the project name titled "unity-dvrk-gaze"
 2) Click on the Project Structure.
 3) Find the 'Working_Scene' in the Scenes Folder.
@@ -53,10 +51,7 @@ The project is rather large for GitHub, so we have uploaded the Unity3D Project 
     hold down the key 'C' to move the camera based on Mouse
 ```
  The below is the setup for User Study.
- 
-
-
-
+![UserStudySetup](https://user-images.githubusercontent.com/116770046/208218618-96a51cf7-ba0d-4ebc-92fa-4dbd546d9ec0.png)
 
 For running the training of the Semantic Segmentation using the UNet++ architecture:
 1) Install Anaconda and create new virtual environment based on the environment.yml.
