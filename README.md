@@ -99,7 +99,7 @@ The below is the video link for Gaze based Camera Automation :
 
 The below is the link for User Studies : 
 USER STUDY: CALIBRATION ERRORS :
-<a href=" https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/ER5rcqUPqZJImXXvBN7sNgIB4YUCiVTtE88hxbHFqprZ7Q?e=2gelWm">User_Study_CalibError</a>
+<a href= "https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/ER5rcqUPqZJImXXvBN7sNgIB4YUCiVTtE88hxbHFqprZ7Q?e=2gelWm" >User_Study_CalibError</a>
 
 USER STUDY: UNFAMILIAR WITH SYSTEM :
 <a href="https://wpi0-my.sharepoint.com/:v:/g/personal/usivaraman_wpi_edu/EeGYe23U7p5DjZ6iRbZDu50BhNxZgvnJSXl1w2eY5Sl_wQ?e=e3XCvh">User_Study_Unfamiliar</a>
